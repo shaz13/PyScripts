@@ -1,6 +1,6 @@
 # PyScripts
 
-These repo holds few of my handy scripts which help me with personal automation and get few tricky things done.
+This repo holds few of my handy scripts which help me with personal automation and get few tricky things done.
 
 
 ## Scripts and Description
